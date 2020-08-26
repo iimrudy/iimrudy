@@ -8,7 +8,7 @@ My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs 🤖
 
 
 ### You can contact me here
-<a href="tg://user?id=541555995">
+<a href="#">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
 </a><br>
 
