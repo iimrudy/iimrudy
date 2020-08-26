@@ -1,7 +1,7 @@
 
 ### Hi 👋🏼
 
-My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs <a href="">🤖</a>
+My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs <a href="https://media.tenor.com/images/07b916b3ee7bdc9a7acbbc95f9c007fd/tenor.gif">🤖</a>
 
 
 
@@ -17,8 +17,14 @@ My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs <a hr
 
 **Languages:** 
 
-<a href=""><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code></a>
+<a href="">
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  </code>
+  <code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  </code>
+</a>
 
 ----
 
