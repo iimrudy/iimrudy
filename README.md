@@ -29,6 +29,6 @@ My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs <a hr
 ----
 
 ### My GitHub stats
-<a href="">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=iimrudy&show_icons=true&theme=tokyonight)
-</a>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=iimrudy&show_icons=true&theme=tokyonight)
+
