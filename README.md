@@ -1,7 +1,7 @@
 
 ### Hi 👋🏼
 
-My name is luca, i'm 17 years old and i love Tech Stuffs 🤖
+My name is luca i come from italy, i'm 17 years old and i love Tech Stuffs 🤖
 
 
 
