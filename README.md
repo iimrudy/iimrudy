@@ -9,7 +9,7 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 
 
 ## You can contact me here
-<a href="https://t.me/lecosedirudy">
+<a href="https://t.me/iim_rudy">
   <img align="left" alt="Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
 </a>
 <br>
