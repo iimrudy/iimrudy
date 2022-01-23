@@ -6,7 +6,6 @@ My name is luca i come from italy, i'm 18 years old and i love Tech Stuffs <a hr
 
 ## Your short description
 - ⚡️ Currently working on [PrismarineController](https://github.com/iimrudy/PrismaController)
-- 📖 Currently learning TCP Sockets
 
 
 ## You can contact me here
