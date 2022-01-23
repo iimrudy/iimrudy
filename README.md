@@ -1,7 +1,7 @@
 
-## Hi <a href="https://i.imgur.com/342nXXc.gif" style="text-decoration:none;" target="_blank">👋🏼</a>
+## Hi <a href="https://i.imgur.com/342nXXc.gif" style="text-decoration:none;" target="_blank" rel="noreferrer noopener">👋🏼</a>
 
-My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a href="https://media.tenor.com/images/07b916b3ee7bdc9a7acbbc95f9c007fd/tenor.gif" target="_blank">🤖</a>
+My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a href="https://media.tenor.com/images/07b916b3ee7bdc9a7acbbc95f9c007fd/tenor.gif" target="_blank" rel="noreferrer noopener">🤖</a>
 
 
 ## Your short description
