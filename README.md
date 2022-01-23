@@ -1,5 +1,5 @@
 
-## Hi 👋🏼
+## Hi <a href="https://i.imgur.com/342nXXc.gif"👋🏼</a>
 
 My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a href="https://media.tenor.com/images/07b916b3ee7bdc9a7acbbc95f9c007fd/tenor.gif">🤖</a>
 
