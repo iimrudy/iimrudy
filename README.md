@@ -23,6 +23,8 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 <img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
 <br>
 
+<br>
+
 ## My GitHub stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iimrudy&show_icons=true&theme=dracula)
