@@ -5,7 +5,7 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 
 
 ## Your short description
-- ⚡️ Currently working on [PrismarineController](https://github.com/iimrudy/PrismaController)
+- ⚡️ Currently working on [MitBee](https://github.com/mitbee/) - [Relic](https://github.com/orgs/relic-project/) - 
 
 
 ## You can contact me here
@@ -22,9 +22,6 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 <img align="left" alt="GoLang" width="80px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" />
 <img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
 <br>
-<img align="left" alt="Python" width="0px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
-<br>
-
 
 ## My GitHub stats
 
