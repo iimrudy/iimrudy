@@ -21,7 +21,7 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 <img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" />
 <img align="left" alt="GoLang" width="80px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" />
 <br>
-<img align="left" alt="GoLang" width="60px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg" />
+<a></a>
 <br>
 
 ## My GitHub stats
