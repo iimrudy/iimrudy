@@ -5,7 +5,7 @@ My name is luca, i come from italy, i'm 18 years old and i love Tech Stuffs <a h
 
 
 ## Your short description
-- ⚡️ Currently working on [MitBee](https://github.com/mitbee/) - [Relic](https://github.com/orgs/relic-project/) - 
+- ⚡️ Currently working on some landig pages 
 
 
 ## You can contact me here
